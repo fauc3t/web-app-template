@@ -8,4 +8,6 @@ A bae template for creating a web application.
 
 ## API
 
+## auth-help
+
 ## DB
